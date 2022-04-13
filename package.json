@@ -1,0 +1,20 @@
+{
+  "name": "try_swc_added_plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "swc-plugin-console-prefix": "^0.3.0"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.163",
+    "@swc/plugin-transform-imports": "^0.3.0"
+  }
+}
