@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "swc-plugin-console-prefix": "^0.3.0"
   },
   "devDependencies": {
     "@swc/cli": "^0.1.57",
